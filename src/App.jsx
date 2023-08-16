@@ -29,7 +29,7 @@ const siteProps = {
   email: "olamilekan.yusuf@studentambassadors.com",
   gitHub: "YusufOlamilekan",
   instagram: "lekanthefirst",
-  linkedIn: "Olamilekan Yusuf",
+  linkedIn: "olamilekan-yusuf-82965519b",
   medium: "",
   twitter: "LeksideTech",
   youTube: "",
