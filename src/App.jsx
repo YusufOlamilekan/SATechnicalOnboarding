@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "lekanthefirst",
   linkedIn: "olamilekan-yusuf-82965519b",
   medium: "",
-  twitter: "LeksideTech",
+  twitter: "LeksideTheFirst",
   youTube: "",
 };
 
